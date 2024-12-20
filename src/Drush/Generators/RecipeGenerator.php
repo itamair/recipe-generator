@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace kevinquillen\Drush\Generators;
+namespace itamair\Drush\Generators;
 
 use DrupalCodeGenerator\Command\DrupalGenerator;
 use Symfony\Component\Console\Question\Question;
