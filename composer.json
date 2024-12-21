@@ -16,7 +16,7 @@
 	}
   ],
   "autoload": {
-	"psr-4": { "kevinquillen\\": "src" }
+	"psr-4": { "itamair\\": "src" }
   },
   "require": {
     "drupal/core": ">=11",
