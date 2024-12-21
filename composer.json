@@ -1,25 +1,20 @@
 {
-  "name": "itamair/recipe-generator",
+  "name": "kevinquillen/recipe-generator",
   "description": "Adds Drush command(s) to help generate Recipes for Drupal.",
   "keywords": ["drush", "Drupal", "drush generator", "drush commands", "recipes", "drupal recipes"],
   "license": "MIT",
   "authors": [
-    {
-      "name": "Italo Mairo",
-      "homepage": "https://www.italomairo.com",
-      "role": "Maintaner of this Fork"
-    },
 	{
 	  "name": "Kevin Quillen",
 	  "homepage": "https://kevinquillen.com",
-	  "role": "Creator of the Original Repo: https://github.com/kevinquillen/recipe-generator"
+	  "role": "Maintainer"
 	}
   ],
   "autoload": {
-	"psr-4": { "itamair\\": "src" }
+	"psr-4": { "kevinquillen\\": "src" }
   },
   "require": {
-	"drupal/core": "^10 || ^11",
-	"drush/drush": "^11 || ^12.4.3 || ^13"
+    "drupal/core": ">=11",
+    "drush/drush": "^13.0"
   }
 }
