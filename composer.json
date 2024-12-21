@@ -1,5 +1,5 @@
 {
-  "name": "kevinquillen/recipe-generator",
+  "name": "itamair/recipe-generator",
   "description": "Adds Drush command(s) to help generate Recipes for Drupal.",
   "keywords": ["drush", "Drupal", "drush generator", "drush commands", "recipes", "drupal recipes"],
   "license": "MIT",
