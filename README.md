@@ -1,10 +1,16 @@
 ## Drupal Recipe Generator 
-(Fork from itamair)
+Fork from itamair  
 
+#### Disclaimer: 
 This is a Fork that extends with Drupal 11 and Drush 13 compatibility
-the original [Drupal Recipe Generator](https://www.drupal.org/project/recipe_generator) project and its
+the original [Drupal Recipe Generator](https://www.drupal.org/project/recipe_generator) 
+project and its
  [kevinquillen/recipe-generator git repo](https://github.com/kevinquillen/recipe-generator).
+@see [this repo commits list](https://github.com/itamair/recipe-generator/commits/1.1.x/)
+to inspect the changes & adjustments done over it (starting from this package 
+fork on the 20/12/2024)
 
+#### Original Documentation
 This add-on for Drush adds the capability to generate a Recipe for Drupal to
 help you build out your own Recipe with an interactive tool. The
 Distributions and Recipes initiative is still in development.
